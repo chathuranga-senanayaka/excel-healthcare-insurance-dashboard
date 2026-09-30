@@ -4,7 +4,10 @@ An interactive, custom-built Microsoft Excel dashboard designed to analyze custo
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)(dashboard_work.png)(sample.png)(working_sheet.png)
+![Dashboard Preview](dashboard_preview.png)
+![Dashboard Work Preview](dashboard_work.png)
+![Sample Data Preview](sample.png)
+![Working Sheet Preview](working_sheet.png)
 
 ## 🛠️ Tools & Techniques Used
 
